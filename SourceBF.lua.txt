@@ -3757,7 +3757,7 @@ local v496 = v466:MakeTab({"Settings", "settings"})
 v484:AddDiscordInvite({
     Name = "TikTok - LQThinhPC",
     Description = "Link TikTok",
-    Logo = "rbxassetid://123060196429580",
+    Logo = "rbxassetid://116892251379048",
     Invite = "@tiktokthinhtuoitre3"
 })
 local _ = v485:AddSection({"Select Melee,Sword,Gun,Fruit"})
